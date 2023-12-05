@@ -1,32 +1,9 @@
-# Prerequisites
-*.d
+/build
 
-# Compiled Object files
-*.slo
-*.lo
-*.o
-*.obj
+/.vscode
 
-# Precompiled Headers
-*.gch
-*.pch
+/latex
 
-# Compiled Dynamic libraries
-*.so
-*.dylib
-*.dll
+/html
 
-# Fortran module files
-*.mod
-*.smod
-
-# Compiled Static libraries
-*.lai
-*.la
-*.a
-*.lib
-
-# Executables
-*.exe
-*.out
-*.app
+/Lab08Documentation.conf
